@@ -1,0 +1,7 @@
+export const NEWS_START = "NEWS_START";
+export const NEWS_SUCCESS = "NEWS_SUCCESS";
+export const NEWS_FAIL = "NEWS_FAIL";
+
+export const SINGLE_NEWS_START = "SINGLE_NEWS_START";
+export const SINGLE_NEWS_SUCESS = "SINGLE_NEWS_SUCESS";
+export const SINGLE_NEWS_FAIL = "SINGLE_NEWS_FAIL";
